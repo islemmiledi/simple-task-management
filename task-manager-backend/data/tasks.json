@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 5,
+      "title": "Réunion client",
+      "description": "Présentation des nouvelles fonctionnalitéskj",
+      "status": "COMPLETED",
+      "priority": "LOW",
+      "dueDate": "2024-03-24T00:00:00.000Z",
+      "createdAt": "2025-01-10T02:31:03.010Z"
+    },
+    {
+      "id": 8,
+      "title": "test ",
+      "description": "testtt ",
+      "status": "IN_PROGRESS",
+      "priority": "HIGH",
+      "dueDate": "2025-01-26T00:00:00.000Z",
+      "createdAt": "2025-01-10T19:47:54.458Z"
+    },
+    {
+      "id": 10,
+      "title": "presentation",
+      "description": "hello",
+      "status": "TODO",
+      "priority": "MEDIUM",
+      "dueDate": "2025-01-10T00:00:00.000Z",
+      "createdAt": "2025-01-10T20:07:22.461Z"
+    }
+  ],
+  "currentId": 11
+}
